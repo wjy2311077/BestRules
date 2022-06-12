@@ -7,6 +7,11 @@ DOMAIN-SUFFIX,demdex.net,Xbox
 DOMAIN-SUFFIX,microsoft.com,Xbox
 DOMAIN-SUFFIX,gfx.ms,Xbox
 DOMAIN-SUFFIX,msftauth.net,Xbox
-DOMAIN-SUFFIX,ajax.aspnetcdn.com,Xbox
-DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net,Xbox
+DOMAIN-SUFFIX,mstauth.net,Xbox
+DOMAIN-SUFFIX,aspnetcdn.com,Xbox
+DOMAIN-SUFFIX,akamaized.net,Xbox
+DOMAIN-SUFFIX,gamepass.com,Xbox
+DOMAIN-SUFFIX,s-microsoft.com,Xbox
+DOMAIN-SUFFIX,visualstudio.com,Xbox
+DOMAIN-SUFFIX,sentry.io,Xbox
 #DOMAIN-SUFFIX,xboxlive.cn,Xbox
