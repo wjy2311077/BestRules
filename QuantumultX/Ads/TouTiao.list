@@ -1,4 +1,7 @@
 #关闭头条系的所有广告
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+DOMAIN-KEYWORD,pangolin-sdk-toutiao,REJECT
 DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,sdk-link.tt.cn,REJECT
+DOMAIN-SUFFIX,urec-ext.tt.cn,REJECT
+DOMAIN-SUFFIX,mssdk-bu.bytedance.com,REJECT
+DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com,REJECT
