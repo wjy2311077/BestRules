@@ -1,5 +1,6 @@
 #!name=pikpak刷邀请
-#!desc=id的获取方法，登录app或者网页随便注册个邮箱点发送验证码已收到获取成功通知为准,邀请码可填argument里
+#!desc=id的获取方法，登录app或者网页随便注册个邮箱点发送验证码。以收到获取成功通知为准,邀请码可填argument里
+#!icon=https://gitlab.com/lodepuly/iconlibrary/-/raw/master/App_icon/120px/PikPak.png
 #脚本的逻辑就是模拟注册新用户刷邀请码
 
 [MITM]
