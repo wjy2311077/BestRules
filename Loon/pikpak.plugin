@@ -9,4 +9,4 @@ hostname = %APPEND% user.mypikpak.com
 [Script]
 //获取id
 pikpak_id = type=http-request,pattern=^https:\/\/user\.mypikpak\.com\/v1\/auth\/verification$,requires-body=0,script-path=pikpak.js
-cron "35 3 * * *",script-path=pikpak.js,timeout=15,argument=0 //填邀请码
+cron "35 3 * * *",script-path=https://raw.githubusercontent.com/wjy2311077/BestRules/main/Loon/Scripts/pikpak.js,argument=276234,timeout=15 //填邀请码
