@@ -1,0 +1,11 @@
+#!name=Grow解锁永久会员
+#!desc=适用软件版本:1.7.9
+#!author=Passer_by_yun
+#!icon=https://github.com/BiliUniverse/ADBlock/raw/main/database/icon_108x.png
+
+
+[Script]
+http-response ^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/GrowForeverVipCrack.js, requires-body=true, tag=Grow解锁永久会员
+
+[MITM]
+hostname = api.revenuecat.com
