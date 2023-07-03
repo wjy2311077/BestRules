@@ -1,0 +1,11 @@
+#!name=好策破解
+#!desc=指定软件使用系统原生键盘、解除软件切屏控制、截屏检测和启用粘贴
+#!author=BetaCat_HA
+#!homepage=https://github.com/wjy2311077/BestRules/blob/main/
+#!icon=https://github.com/wjy2311077/BestRules/raw/main/Icon/haoce.webp
+
+[Script]
+http-response https://adm.haoce.com/api/exam/select/* script-path=https://github.com/wjy2311077/BestRules/raw/main/Scripts/haoce-crack.js, requires-body=true, tag=解锁限制
+
+[MITM] 
+hostname = adm.haoce.com
