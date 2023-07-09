@@ -1,0 +1,10 @@
+#!name=Apollo
+#!desc=软件版本:1.1.1
+#!author=彭于晏💞
+#!icon=https://github.com/wjy2311077/BestRules/raw/main/Icon/apollo.jpg
+
+[Script]
+http-response ^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Apollo.js, requires-body=true, tag=Apollo-记录你的影视生活
+
+[MITM]
+hostname = api.revenuecat.com
