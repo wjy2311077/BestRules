@@ -1,7 +1,7 @@
 #!name=小蚕去广告
 #!author=BetaCat_HA
 #!homepage=https://github.com/wjy2311077/BestRules/tree/main
-#!icon=https://github.com/wjy2311077/BestRules/raw/main/Icon/xiaocan.webp
+#!icon=https://github.com/wjy2311077/BestRules/raw/main/Icon/xiaocan.jpg
 
 [Rewrite]
 ^https:\/\/open\.e\.kuaishou\.com\/rest\/e\/v3\/open - reject
