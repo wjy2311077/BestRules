@@ -3,7 +3,8 @@
 #!homepage=https://github.com/wjy2311077/BestRules/tree/main
 #!icon=https://github.com/wjy2311077/BestRules/raw/main/Icon/xiaocan.jpg
 
-[Rewrite]
-^https:\/\/open\.e\.kuaishou\.com\/rest\/e\/v3\/open - reject
-^https:\/\/mobads\.baidu\.com - reject
-^https:\/\/.*\.pangolin-sdk-toutiao\.com - reject
+[Rule]
+DOMAIN-KEYWORD, open.e.kuaishou.com, REJECT
+DOMAIN-KEYWORD, mobads.baidu.com, REJECT
+DOMAIN-KEYWORD, pangolin-sdk-toutiao.com, REJECT
+DOMAIN-KEYWORD, adashbc.ut.taobao.com, REJECT
